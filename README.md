@@ -18,7 +18,6 @@ Hi, I'm Julian Parada!
 - 🔭 I am working on developing my skills as a Full Stack developer.
 - 🌟 My Main languages: C# most especific using .NET framework and PHP.
 - 📫 Feel free to reach me out **alexgualteros02@gmail.com**
-- 🤔 I’m very interested on: <b>An apprenticeship contract,</b><b> an internship</b><b> or a new job oportunity, </b> if you're interested, you can see my resume <a href="https://drive.google.com/drive/folders/1djbQ8GaNIsBN6Q-mJRjOwiJpvChWdyJM" target="_blank">HERE.<a>
 
 ## Profile Information 👇
 

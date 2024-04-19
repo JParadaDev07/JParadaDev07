@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
-Hi, I'm Julian Parada!
+Hi developers, I'm Julian Parada!
 	<a href="https://github.com/JParadaDev07" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -9,15 +9,14 @@ Hi, I'm Julian Parada!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/JParadaDev07"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=No+entender+es+parte+del+proceso...+;Back-End+Developer,;Software+Development+Intern,;Curious+Learner,;Learning+more+to+become+a+Full+Stack"></a>
+  <a href="https://github.com/JParadaDev07"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Back-End+Developer,;Software+Development+Practicant,;Curious+Learner,;Growing+up+to+become+a+Full+Stack"></a>
 </p>
 
-- 💻 I am a BackEnd development enthusiast, mostly in API development.
+- 💻 I am a BackEnd developer, enthusiastic and curious to learn and grow as a programmer.
 - 📚 I am an apprentice in Software Analysis and Development at the National Learning Service (SENA) in Sogamoso Boyacá.
 - 📝 I would like to learn data analysis and artificial intelligence, it's incredible.
 - 🔭 I am working on developing my skills as a Full Stack developer.
-- 🌟 My Main languages: C# most especific using .NET framework and PHP.
-- 📫 Feel free to reach me out **alexgualteros02@gmail.com**
+- 🌟 My Main languages: C# using the .NET Framework especially and PHP using the Laravel Framework too.
 
 ## Profile Information 👇
 

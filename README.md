@@ -40,13 +40,13 @@ Hi developers, I'm Julian Parada!
 </p>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Use👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I'm Learning👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,cs,dotnet,php,laravel,mysql,postgres,postman,git,visualstudio,vscode&perline=7" /> 
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,postgres,postman,git,visualstudio,vscode&perline=7" /> 
   </a>
 </p>
 

@@ -46,7 +46,7 @@ Hi developers, I'm Julian Parada!
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,postgres,postman,git,visualstudio,vscode&perline=7" /> 
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,postgres,postman,git,visualstudio,vscode&perline=2" /> 
   </a>
 </p>
 

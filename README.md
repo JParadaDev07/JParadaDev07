@@ -24,10 +24,7 @@ Hi developers, I'm Julian Parada!
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  <br></br>
-  <img  alt="Julian streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JParadaDev07&theme=dark&hide_border=false" /> 
-</td>
+
 
 <td width="50%" align="center">
 
